@@ -1,0 +1,18 @@
+body {
+    font-family: "Helvetica", "Calibre";
+}
+
+h1 {
+    font-size: 16pt;
+}
+
+/* Style for everything with class */
+.classyMofo {
+    font-style: italic;
+    color: green;
+}
+
+/* Style just for this specific div with id asdf */
+#asdf {
+    color: red;
+}
